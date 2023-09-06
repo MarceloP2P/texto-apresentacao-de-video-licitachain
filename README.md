@@ -5,7 +5,7 @@ O licitachain é um projeto que pretende através da tecnologia Hyperlege Besu r
 
 Soluções:
 
-1 - Rastreabilidade ou seja todo um registro de histórico completo dos processos e
+1 - Rastreabilidade : A Blockchain gera  todo um registro de histórico  verificavel completo dos processos e
 das licitações homologadas e seus atuantes.
 
 2 - Segurança, devido à Imutabilidade que o sistema Blockchain e Drex fornecem Isso ajuda a proteger os dados das licitações contra fraudes e acesso não autorizado.
