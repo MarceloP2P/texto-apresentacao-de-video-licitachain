@@ -1,7 +1,7 @@
 # texto-apresentacao-de-video-licitachain
 Texto de apresentação em video projeto licitachain Buildathon 2023
 
-O licitação é um projeto que pretende através da tecnologia Hyperlege Besu realizar a gestão de forma automatizada de todo o processo de compra das licitações Públicas através da tokenização total da mesma dez das etapas internas feitas pelo Órgão Público até as etapas abertas ondem os licitantes ambos e utilizando o Drex como moeda de pagamento gira assim provando um processo mais rápido e automatizado e provando transparência total tanto para o órgão Público quanto para o cidadão evitando também fraudes e possível desvio de verbas e fornecido todo um histórico dos processos e licitações vencidas
+O licitachain é um projeto que pretende através da tecnologia Hyperlege Besu realizar a gestão de forma automatizada de todo o processo de compra das licitações Públicas através da tokenização total da mesma dez das etapas internas feitas pelo Órgão Público até as etapas abertas ondem os licitantes ambos e utilizando o Drex como moeda de pagamento gira assim provando um processo mais rápido e automatizado e provando transparência total tanto para o órgão Público quanto para o cidadão evitando também fraudes e possível desvio de verbas e fornecido todo um histórico dos processos e licitações vencidas
 
 Soluções:
 
